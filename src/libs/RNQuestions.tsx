@@ -1,6 +1,6 @@
 export default [
     {
-      question: 'React Native solo sirve para desarrollo de apps en...',
+      question: 'React Native sirve para desarrollo de apps en...',
       solution: 'Ambas plataformas',
       a: 'Android',
       b: 'IOS',
@@ -54,5 +54,40 @@ export default [
       a: 'Falso',
       b: 'Verdadero',
       c: 'solo si no hay otro elemento en el View'
+    },
+    {
+      question: '¿Qué componente crea una lista Horizontal?',
+      solution: '<FlatList horizontal={true} />',
+      a: '<FlatHorizontalList />',
+      b: '<FlatList horizontal={true} />',
+      c: '<HorizontalFlatList />'
+    },
+    {
+      question: '¿Para que sirve pods o cocoapods?',
+      solution: 'Para agregar las dependencias de IOS',
+      a: 'Se encarga de ompilar el codigo para ambas plataformas',
+      b: 'Para agregar las dependencias de Android',
+      c: 'Para agregar las dependencias de IOS'
+    },
+    {
+      question: '¿Què pasa si llamamos a un componente que no fue exportado?',
+      solution: 'no compila y Metro nos manda error',
+      a: 'compila pero Metro mostrará un warning',
+      b: 'no compila y Metro nos manda error',
+      c: 'Se renderiza todo menos ese componente'
+    },
+    {
+      question: '¿Para qué sirve Metro?',
+      solution: 'Compila el código y dependencias de la app a un bundle JS',
+      a: 'Para ir de Chapultepec a Indios Verdes',
+      b: 'Compila el código y dependencias de la app a un bundle TS',
+      c: 'Compila el código y dependencias de la app a un bundle JS'
+    },
+    {
+      question: 'Un componente puede tener un array de styles',
+      solution: 'Verdadero',
+      a: 'Falso',
+      b: 'Verdadero',
+      c: "Solo los que contienen String's"
     }
 ]

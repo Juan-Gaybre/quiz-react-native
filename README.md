@@ -1,5 +1,10 @@
 # React Native Quiz
 
+<div align="center">
+  <img src="https://github.globant.com/raw/juan-gaybre/quiz-react-native/master/src/assets/login.png?token=AAABXMSIKDT5TL6TIIZDJITBIEFEE" width="150" alt="login">
+  <img src="https://github.globant.com/raw/juan-gaybre/quiz-react-native/master/src/assets/quiz.png?token=AAABXMRS2EXNCFZLGAHSPNTBIEFEQ" width="150" alt="quiz">
+  <img src="https://github.globant.com/raw/juan-gaybre/quiz-react-native/master/src/assets/resume.png?token=AAABXMTWJ3UIH5L2IYV26HLBIEFE4" width="150" alt="resume">
+</div>
 
 ## 🧾 1. Generalities
 
